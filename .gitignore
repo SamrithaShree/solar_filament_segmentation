@@ -1,0 +1,12 @@
+.DS_Store
+MAGFiLO_1.0_Kaggle_2026/
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Large model checkpoints and generated outputs
+output/
+*.pt
+*.pth
+*.pkl

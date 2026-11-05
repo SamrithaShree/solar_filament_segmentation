@@ -69,15 +69,11 @@ MAGFiLO_1.0_Kaggle_2026/
 ├── train/
 │   ├── MAGFiLO_1.0_Annotations_kaggle2026_train.json
 │   └── train_images/
-│       ├── image_1.jpg
-│       ├── image_2.jpg
-│       └── ...
+│      
 │
 └── test/
     └── test_images/
-        ├── image_1.jpg
-        ├── image_2.jpg
-        └── ...
+        
 ```
 
 > **Note:** The competition dataset is not included in this repository. Access it through the official MAGFiLO 2026 competition and follow its data-access and usage requirements.
